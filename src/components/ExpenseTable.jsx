@@ -20,6 +20,7 @@ export default function ExpenseTable({
   const total = filterExpenses.reduce((acc, el) => {
     return acc + parseInt(el.amount);
   }, 0);
+
   return (
     <>
       <ContextMenu
