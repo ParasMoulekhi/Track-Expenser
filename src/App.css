@@ -76,7 +76,7 @@ main {
 
 .amount-column span {
   margin-right: 6px;
-  color: #555; /* Neutral text color */
+  color: #0f0f0f; /* Neutral text color */
 }
 
 /* Arrows for Sorting */
